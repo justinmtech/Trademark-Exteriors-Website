@@ -1,0 +1,6 @@
+- Learn how to make the site responsive and look good on all devices
+- Make a logo
+- Finish the services section
+- Finish the "why" section
+- Finish the call to action section.
+- Finish footer
